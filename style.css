@@ -527,6 +527,9 @@ footer span a:hover{
         height: 350px;
         width: 350px;
     }
+    .right img{
+        width: 100%;
+    }
 }
 
 @media (max-width: 991px) {
@@ -535,6 +538,9 @@ footer span a:hover{
     }
 }
 @media (max-width: 947px){
+    .right img{
+        width: 100%;
+    }
     .menu-btn{
         display: block;
         z-index: 999;
@@ -649,4 +655,4 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
-}
+} 
